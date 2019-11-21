@@ -1,2 +1,2 @@
 # mymaven
-june 24
+june 25
